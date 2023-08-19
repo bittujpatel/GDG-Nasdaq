@@ -1,4 +1,4 @@
 # GDG-Nasdaq
 Golang and Rust workshop
-NASDAQ - 1 Saint Mark's Road Bengaluru, 560001 - View Map
+NASDAQ - 1 Saint Mark's Road Bengaluru
 GDG Cloud Bengaluru
